@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## uhhh
-
 <p>
   <a href="https://instagram.com/marcelo.mlv">
     <img src="instagram-logo.png" height=50>
@@ -31,8 +29,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
-> Cutelo
+> Cutelo 👇
 
                                   ....            
                                 ..........        
