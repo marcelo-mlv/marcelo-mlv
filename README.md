@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/marcelo-veras">
     <img src="linkedin-logo.png" height=50>
   </a>
-  <a href="https://www.aeitaonline.com.br/wiki/index.php?title=Marcelo_Loiola_Lopes_Veras">
+  <a href="https://wikita.aeita.com.br/wiki/Marcelo_Loiola_Lopes_Veras">
     <img src="ita-logo.png" height=50>
   </a>
 </p>
